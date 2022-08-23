@@ -4,16 +4,6 @@
 
 <hr>
 
-<div align="center">
-    <a href="https://github.com/0xR3V/Bibles#introduction">Introduction</a>
-    -
-    <a href="https://github.com/0xR3V/Bibles#a-list-of-all-the-bibles">A List of All the Bibles</a>
-    -
-    <a href="https://github.com/0xR3V/Bibles#special-thanks">Special Thanks</a>
-    -
-    <a href="https://github.com/0xR3V/Bibles#contact-me">Contact Me</a>
-</div>
-
 # Introduction
 This repository contains **Public Domain** bibles in different languages and versions written in groff mom syntax.
 
