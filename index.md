@@ -56,27 +56,27 @@ However, before making any changes, consult first mom's documentation. More info
 	- [x] A Conservative Version (ACV)
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/A%20Conservative%20Version%20(ACV)/The%20New%20Testament/ACV-the-new-testament.pdf">Download The New Testament</a>
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/A%20Conservative%20Version%20(ACV)/The%20Old%20Testament/ACV-the-old-testament.pdf">Download The Old Testament</a>
-		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/A%20Conservative%20Version%20(ACV)/The%20Old%20Testament%20%26%20The%20New%20Testament/ACV.pdf">Download The Old Testament \& The New Testament</a>
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/A%20Conservative%20Version%20(ACV)/The%20Old%20Testament%20%26%20The%20New%20Testament/ACV.pdf">Download The Old Testament & The New Testament</a>
 	- [ ] Aionian Bible
 	- [x] American King James Version (AKJV)
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/American%20King%20James%20Version%20(AKJV)/The%20New%20Testament/AKJV-the-new-testament.pdf">Download The New Testament</a>
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/American%20King%20James%20Version%20(AKJV)/The%20Old%20Testament/AKJV-the-old-testament.pdf">Download The Old Testament</a>
-		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/American%20King%20James%20Version%20(AKJV)/The%20Old%20Testament%20%26%20The%20New%20Testament/AKJV.pdf">Download The Old Testament \& The New Testament</a>
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/American%20King%20James%20Version%20(AKJV)/The%20Old%20Testament%20%26%20The%20New%20Testament/AKJV.pdf">Download The Old Testament & The New Testament</a>
 	- [ ] American Standard Version (ASV)
 	- [x] Bible in Basic English (BBE)
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Bible in Basic English (BBE)/The New Testament/BBE-the-new-testament.pdf">Download The New Testament</a>
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Bible%20in%20Basic%20English%20(BBE)/The%20Old%20Testament/BBE-the-old-testament.pdf">Download The Old Testament</a>
-		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Bible%20in%20Basic%20English%20(BBE)/The%20Old%20Testament%20%26%20The%20New%20Testament/BBE.pdf">Download The Old Testament \& The New Testament</a>
+		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Bible%20in%20Basic%20English%20(BBE)/The%20Old%20Testament%20%26%20The%20New%20Testament/BBE.pdf">Download The Old Testament & The New Testament</a>
 	- [x] Darby Translation (DARBY)
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Darby%20Translation%20(DARBY)/The%20New%20Testament/DARBY-the-new-testament.pdf">Download The New Testament</a>
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Darby%20Translation%20(DARBY)/The%20Old%20Testament/DARBY-the-old-testament.pdf">Download The Old Testament</a>
-		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Darby%20Translation%20(DARBY)/The%20Old%20Testament%20%26%20The%20New%20Testament/DARBY.pdf">Download The Old Testament \& The New Testament</a>
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Darby%20Translation%20(DARBY)/The%20Old%20Testament%20%26%20The%20New%20Testament/DARBY.pdf">Download The Old Testament & The New Testament</a>
 	- [ ] Douay-Rheims 1899 American Edition (DRA)
 	- [ ] Geneva Bible 1599
 	- [x] King James Version (KJV)
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/King%20James%20Version%20(KJV)/The%20New%20Testament/KJV-the-new-testament.pdf">Download The New Testament</a>
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/King%20James%20Version%20(KJV)/The%20Old%20Testament/KJV-the-old-testament.pdf">Download The Old Testament</a>
-		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/King%20James%20Version%20(KJV)/The%20Old%20Testament%20%26%20The%20New%20Testament/KJV.pdf">Download The Old Testament \& The New Testament</a>
+		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/King%20James%20Version%20(KJV)/The%20Old%20Testament%20%26%20The%20New%20Testament/KJV.pdf">Download The Old Testament & The New Testament</a>
 	- [ ] Montgomery New Testament (MNT)
 	- [ ] Revised King James New Testament (RKJNT)
 	- [ ] The Emphasized Bible by J. B. Rotherham (Rotherham)
@@ -85,7 +85,7 @@ However, before making any changes, consult first mom's documentation. More info
 	- [x] Updated King James Version (UKJV)
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20New%20Testament/UKJV-the-new-testament.pdf">Download The New Testament</a>
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20Old%20Testament/UKJV-the-old-testament.pdf">Download The Old Testament</a>
-		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20Old%20Testament%20%26%20The%20New%20Testament/UKJV.pdf">Download The Old Testament \& The New Testament</a>
+		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20Old%20Testament%20%26%20The%20New%20Testament/UKJV.pdf">Download The Old Testament & The New Testament</a>
 	- [ ] Webster Bible
 	- [ ] Weymouth NT 1912 (Weymouth)
 	- [ ] World English Bible (WEB)
