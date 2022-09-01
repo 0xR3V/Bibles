@@ -71,7 +71,10 @@ However, before making any changes, consult first mom's documentation. More info
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Darby%20Translation%20(DARBY)/The%20New%20Testament/DARBY-the-new-testament.pdf">Download The New Testament</a>
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Darby%20Translation%20(DARBY)/The%20Old%20Testament/DARBY-the-old-testament.pdf">Download The Old Testament</a>
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Darby%20Translation%20(DARBY)/The%20Old%20Testament%20%26%20The%20New%20Testament/DARBY.pdf">Download The Old Testament & The New Testament</a>
-	- [ ] Douay-Rheims 1899 American Edition (DRA)
+	- [x] Douay-Rheims 1899 American Edition (DRA)
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Douay-Rheims%201899%20American%20Edition%20(DRA)/The%20New%20Testament/DRA-the-new-testament.pdf">Download The New Testament</a>
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Douay-Rheims%201899%20American%20Edition%20(DRA)/The%20Old%20Testament/DRA-the-old-testament.pdf">Download The Old Testament</a>
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Douay-Rheims%201899%20American%20Edition%20(DRA)/The%20Old%20Testament%20%26%20The%20New%20Testament/DRA.pdf">Download The Old Testament & The New Testament</a>
 	- [ ] Geneva Bible 1599
 	- [x] King James Version (KJV)
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/King%20James%20Version%20(KJV)/The%20New%20Testament/KJV-the-new-testament.pdf">Download The New Testament</a>
