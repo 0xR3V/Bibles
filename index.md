@@ -84,7 +84,8 @@ However, before making any changes, consult first mom's documentation. More info
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/King%20James%20Version%20(KJV)/The%20Old%20Testament/KJV-the-old-testament.pdf">Download The Old Testament</a>
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/King%20James%20Version%20(KJV)/The%20Old%20Testament%20%26%20The%20New%20Testament/KJV.pdf">Download The Old Testament & The New Testament</a>
 	- [ ] Montgomery New Testament (MNT)
-	- [ ] Revised King James New Testament (RKJNT)
+	- [x] Revised King James New Testament (RKJNT)
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Revised%20King%20James%20New%20Testament%20(RKJNT)/The%20New%20Testament/RKJNT-the-new-testament.pdf">Download The New Testament</a>
 	- [ ] The Emphasized Bible by J. B. Rotherham (Rotherham)
 	- [ ] The Living Oracles NT (TLO)
 	- [ ] Twentieth Century New Testament (TCNT)
