@@ -87,8 +87,10 @@ However, before making any changes, consult first mom's documentation. More info
 	- [x] Revised King James New Testament (RKJNT)
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Revised%20King%20James%20New%20Testament%20(RKJNT)/The%20New%20Testament/RKJNT-the-new-testament.pdf">Download The New Testament</a>
 	- [ ] The Emphasized Bible by J. B. Rotherham (Rotherham)
-	- [ ] The Living Oracles NT (TLO)
-	- [ ] Twentieth Century New Testament (TCNT)
+	- [x] The Living Oracles NT (TLO)
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/The%20Living%20Oracles%20NT%20(TLO)/The%20New%20Testament/TLO-the-new-testament.pdf">Download The New Testament</a>
+	- [x] Twentieth Century New Testament (TCNT)
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Twentieth%20Century%20New%20Testament%20(TCNT)/The%20New%20Testament/TCNT-the-new-testament.pdf">Download The New Testament</a>
 	- [x] Updated King James Version (UKJV)
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20New%20Testament/UKJV-the-new-testament.pdf">Download The New Testament</a>
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20Old%20Testament/UKJV-the-old-testament.pdf">Download The Old Testament</a>
@@ -97,7 +99,10 @@ However, before making any changes, consult first mom's documentation. More info
 	- [ ] Weymouth NT 1912 (Weymouth)
 	- [ ] World English Bible (WEB)
 	- [ ] World Messianic Bible
-	- [ ] Young's Literal Translation (YLT)
+	- [x] Young's Literal Translation (YLT)
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Young%E2%80%99s%20Literal%20Translation%20(YLT)/The%20New%20Testament/YLT-the-new-testament.pdf">Download The New Testament</a>
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Young%E2%80%99s%20Literal%20Translation%20(YLT)/The%20Old%20Testament/YLT-the-old-testament.pdf">Download The Old Testament</a>
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Young%E2%80%99s%20Literal%20Translation%20(YLT)/The%20Old%20Testament%20%26%20The%20New%20Testament/YLT.pdf">Download The Old Testament & The New Testament</a>
 - [ ] Español (Spanish) (ES)
 	- [x] Reina-Valera Antigua (RVA)
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/Espa%C3%B1ol%20(Spanish)/Reina-Valera%20Antigua%20(RVA)/Nuevo%20Testamento%20(The%20New%20Testament)/RVA-nuevo-testamento.pdf">Descarga Nuevo Testamento</a>
