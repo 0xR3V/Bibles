@@ -96,7 +96,8 @@ However, before making any changes, consult first mom's documentation. More info
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20Old%20Testament/UKJV-the-old-testament.pdf">Download The Old Testament</a>
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20Old%20Testament%20%26%20The%20New%20Testament/UKJV.pdf">Download The Old Testament & The New Testament</a>
 	- [ ] Webster Bible
-	- [ ] Weymouth NT 1912 (Weymouth)
+	- [x] Weymouth NT 1912 (Weymouth)
+		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Weymouth%20NT%201912%20(Weymouth)/The%20New%20Testament/Weymouth-the-new-testament.pdf">Download The New Testament</a>
 	- [ ] World English Bible (WEB)
 	- [ ] World Messianic Bible
 	- [x] Young's Literal Translation (YLT)
