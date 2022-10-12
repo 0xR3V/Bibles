@@ -1,3 +1,5 @@
+<img src="https://github.com/0xR3V/screenshots/raw/main/Bibles/preview.png" alt="Preview">
+
 <div align="center">
 "Jesus said to him, I am the way, the truth, and the life: no man comes to the Father, but by me." - John 14:6 (AKJV)
 </div>
