@@ -88,7 +88,7 @@ However, before making any changes, consult first mom's documentation. More info
 	- [ ] Montgomery New Testament (MNT)
 	- [x] Revised King James New Testament (RKJNT)
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Revised%20King%20James%20New%20Testament%20(RKJNT)/The%20New%20Testament/RKJNT-the-new-testament.pdf">Download The New Testament</a>
-	- [ ] The Emphasized Bible by J. B. Rotherham (Rotherham)
+	- [ ] The Emphasized Bible by J. B. Rotherham (Roth)
 	- [x] The Living Oracles NT (TLO)
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/The%20Living%20Oracles%20NT%20(TLO)/The%20New%20Testament/TLO-the-new-testament.pdf">Download The New Testament</a>
 	- [x] Twentieth Century New Testament (TCNT)
@@ -97,7 +97,10 @@ However, before making any changes, consult first mom's documentation. More info
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20New%20Testament/UKJV-the-new-testament.pdf">Download The New Testament</a>
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20Old%20Testament/UKJV-the-old-testament.pdf">Download The Old Testament</a>
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Updated%20King%20James%20Version%20(UKJV)/The%20Old%20Testament%20%26%20The%20New%20Testament/UKJV.pdf">Download The Old Testament & The New Testament</a>
-	- [ ] Webster Bible
+	- [x] Webster Bible
+		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Webster%20Bible/The%20New%20Testament/Webster-the-new-testament.pdf">Download The New Testament</a>
+		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Webster%20Bible/The%20Old%20Testament/Webster-the-old-testament.pdf">Download The Old Testament</a>
+		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Webster%20Bible/The%20Old%20Testament%20%26%20The%20New%20Testament/Webster.pdf">Download The Old Testament & The New Testament</a>
 	- [x] Weymouth NT 1912 (Weymouth)
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Weymouth%20NT%201912%20(Weymouth)/The%20New%20Testament/Weymouth-the-new-testament.pdf">Download The New Testament</a>
 	- [ ] World English Bible (WEB)
