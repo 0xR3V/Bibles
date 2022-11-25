@@ -6,51 +6,6 @@
 
 <hr>
 
-# Introduction
-This repository contains **Public Domain** bibles in different languages and versions written in groff mom syntax.
-
-There is a directory for each language, as well as a sub-directory for each version of that language.
-
-Each version includes 3 directories and 2 files:
-- **The New Testament**
-- **The Old Testament**
-- **The Old Testament & The New Testament**
-- **LICENSE**
-- **SKIPTOCENTRY.mom** - Introducing a new macro to skip a specific entry heading level in the table of content in `stylesheet.mom`.
-
-Each directory with 4 files:
-- **stylesheet.mom** - where all styling will take place.
-- Pre-generated **PDF** file.
-- A file containing bible content written in mom syntax.
-- **README.md**
-
-Here's an example:
-```txt
-English
-└── Bible in Basic English (BBE)
-   ├── The New Testament
-   │  ├── BBE-the-new-testament.mom
-   │  ├── BBE-the-new-testament.pdf
-   │  ├── README.md
-   │  └── stylesheet.mom
-   ├── The Old Testament
-   │  ├── BBE-the-old-testament.mom
-   │  ├── BBE-the-old-testament.pdf
-   │  ├── README.md
-   │  └── stylesheet.mom
-   ├── The Old Testament & The New Testament
-   │  ├── BBE.mom
-   │  ├── BBE.pdf
-   │  ├── README.md
-   │  └── stylesheet.mom
-   ├── LICENSE
-   └── SKIPTOCENTRY.mom
-```
-
-The **PDF** file is generated using `stylesheet.mom`, and the default design in `stylesheet.mom` is for **A5** papers. Also you can change every detail in `stylesheet.mom`,  such as the paper size to **A4** or **LETTER**.
-However, before making any changes, consult first mom's documentation. More information can also be found in `stylesheet.mom`
-
-
 # A List of All the Bibles
 - [ ] العربية (Arabic) (AR)
 	- [ ] الكتاب المقدس - فان دايك (SVD)
@@ -85,7 +40,8 @@ However, before making any changes, consult first mom's documentation. More info
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/King%20James%20Version%20(KJV)/The%20New%20Testament/KJV-the-new-testament.pdf">Download The New Testament</a>
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/King%20James%20Version%20(KJV)/The%20Old%20Testament/KJV-the-old-testament.pdf">Download The Old Testament</a>
 		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/King%20James%20Version%20(KJV)/The%20Old%20Testament%20%26%20The%20New%20Testament/KJV.pdf">Download The Old Testament & The New Testament</a>
-	- [ ] Montgomery New Testament (MNT)
+	- [x] Montgomery New Testament (MNT)
+		- <a href="https://raw.githubusercontent.com/0xR3V/Bibles/main/English/Montgomery%20New%20Testament%20(MNT)/The%20New%20Testament/MNT-the-new-testament.pdf">Download The New Testament</a>
 	- [x] Revised King James New Testament (RKJNT)
 		- <a href="https://github.com/0xR3V/Bibles/raw/main/English/Revised%20King%20James%20New%20Testament%20(RKJNT)/The%20New%20Testament/RKJNT-the-new-testament.pdf">Download The New Testament</a>
 	- [ ] The Emphasized Bible by J. B. Rotherham (Roth)
